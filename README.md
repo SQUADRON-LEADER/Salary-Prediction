@@ -4,8 +4,6 @@
 
 Predicting salaries based on experience, education, and more using ML!
 
-![Salary Prediction Banner](./assets/salary_prediction_banner.png)
-
 [![Python](https://img.shields.io/badge/Python-3.8-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![ML Project](https://img.shields.io/badge/Machine%20Learning-Project-blueviolet)](#)
