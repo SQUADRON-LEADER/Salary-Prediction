@@ -132,14 +132,11 @@ jupyter notebook
 ---
 
 ## 📷 Sample Visuals
+<img width="1919" height="867" alt="Screenshot 2025-07-22 235705" src="https://github.com/user-attachments/assets/f19feb94-0f17-4d64-b744-b2584a9ec274" />
+<br>
+<img width="1917" height="860" alt="Screenshot 2025-07-22 235725" src="https://github.com/user-attachments/assets/8e533fbc-c519-48a4-ab30-6a97f3b59d7c" />
 
-### Feature Correlation Heatmap
 
-![EDA Plot](./assets/eda_plot.png)
-
-### Model Prediction Output
-
-![Model Output](./assets/prediction_output.png)
 
 ---
 
