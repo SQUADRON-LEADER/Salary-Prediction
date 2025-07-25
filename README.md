@@ -135,6 +135,8 @@ jupyter notebook
 <img width="1919" height="867" alt="Screenshot 2025-07-22 235705" src="https://github.com/user-attachments/assets/f19feb94-0f17-4d64-b744-b2584a9ec274" />
 <br>
 <img width="1917" height="860" alt="Screenshot 2025-07-22 235725" src="https://github.com/user-attachments/assets/8e533fbc-c519-48a4-ab30-6a97f3b59d7c" />
+<img width="1914" height="781" alt="Screenshot 2025-07-22 235732" src="https://github.com/user-attachments/assets/2bed66cf-965a-41a0-8034-c00deae67f31" />
+<img width="1847" height="959" alt="Screenshot 2025-07-22 235623" src="https://github.com/user-attachments/assets/9ab7e187-f094-4519-b347-2738447a1350" />
 
 
 
