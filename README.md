@@ -162,7 +162,7 @@ Licensed under the [MIT License](LICENSE). Feel free to use or modify with attri
 
 ## 📬 Connect with Me
 
-* **Name:** Aayush
+* **Name:** Aayush Kumar
 * **GitHub:** [@your-username](https://github.com/your-username)
 * **Email:** [your-email@example.com](mailto:your-email@example.com)
 * **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
